@@ -1,0 +1,22 @@
+{
+  "project": "neuralbrain",
+  "source": "https://github.com/dreamer2664/neuralbrain",
+  "agents": {
+    "neuroforge": {
+      "id": "t-20261015-7d93",
+      "status": "open",
+      "owner": null,
+      "deps": []
+    },
+    "benchmate": {
+      "id": "t-20261015-afd1",
+      "status": "open",
+      "owner": null,
+      "deps": []
+    }
+  },
+  "primary_archive": "dreamer2664/storagecode",
+  "mars": "paused",
+  "credentials": "KIT-DBF340 only in Director private MDs; public templates placeholders",
+  "commission_state": "prepared; future producer not registered/awake/claimed"
+}
